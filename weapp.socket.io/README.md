@@ -28,7 +28,7 @@
 
 ## Feature
 
-Full feature socket.io style implemented, based-on `socket.io@3.x` version, such as:
+Full feature socket.io style implemented, based-on `socket.io@2.x` version, such as:
 
 -   send message queue
 -   auto reconnect
@@ -38,6 +38,8 @@ Full feature socket.io style implemented, based-on `socket.io@3.x` version, such
 ## Demos
 
 [Official Framework](https://github.com/wxsocketio/socket.io-weapp-demo) , [Wepy Framework](https://github.com/weapp-socketio/wepy-demo-socket.io)
+
+### netty-socket io 1.7.18
 
 ## Install
 
@@ -99,5 +101,3 @@ This project exists thanks to all the people who contribute. [[Contribute](.gith
 ### Financial Contributors
 
 Become a financial contributor and help us sustain our community. [[Contribute](https://opencollective.com/weappsocketio/contribute)]
-
-### netty-socket io 1.7.18
